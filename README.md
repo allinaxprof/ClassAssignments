@@ -1,7 +1,7 @@
 # ClassAssignments
 A collection of small programs, highlighting my coding proficiency.
 
-## Planet Currency - Java
+## Planet Currency - Java OOP practice
 - Currency = abstract parent class
 - Exchangeable = interface
 - Mars = extends Currency
@@ -9,7 +9,7 @@ A collection of small programs, highlighting my coding proficiency.
 - Jupiter = extends Currency
 - Main = calling .exchange(planet, amount) adds the amount to the planet in question, subtracting the amount + service fee from the original planet
 
-## AppStoreSimulator - Python
+## AppStoreSimulator - Python OOP practice
 Smartphone = class
  - instance variables = storage capacity, name, dictionary of apps {appName : appSize}
  - add_app = adds an app and its storage as long as the appName does not exist in the dictionary and the storage space is available
@@ -22,6 +22,6 @@ Smartphone = class
 Runs
  - a main program to report, add an app, remove an app, or quit the program
 
-## GumballMachine - Python
+## GumballMachine - Python using random module
 
-## RectangleID - Python
+## RectangleID - Python basic operators practice
