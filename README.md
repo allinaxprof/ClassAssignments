@@ -2,12 +2,12 @@
 A collection of small programs, highlighting my coding proficiency.
 
 ## Planet Currency - Java
-Currency = abstract parent class
-Exchangeable = interface
-Mars = extends Currency
-Saturn = extends Currency
-Jupiter = extends Currency
-Main = calling .exchange(planet, amount) adds the amount to the planet in question, subtracting the amount + service fee from the original planet
+- Currency = abstract parent class
+- Exchangeable = interface
+- Mars = extends Currency
+- Saturn = extends Currency
+- Jupiter = extends Currency
+- Main = calling .exchange(planet, amount) adds the amount to the planet in question, subtracting the amount + service fee from the original planet
 
 ## AppStoreSimulator - Python
 Smartphone = class
