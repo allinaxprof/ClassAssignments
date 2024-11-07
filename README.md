@@ -18,6 +18,7 @@ Smartphone = class
  - get_available_space = returns storage capacity remaining
  - spaceUsed = returns storage capacity used
  - report = prints a report with Name of phone, Capacity of phone, Available space, # of apps installed, a listing of all apps installed in alphabetical order, with their sizes
+
 Runs
  - a main program to report, add an app, remove an app, or quit the program
 
