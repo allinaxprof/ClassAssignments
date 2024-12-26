@@ -1,6 +1,8 @@
 # ClassAssignments
 A collection of small programs, highlighting my coding proficiency.
 
+## Huffman Encoder - Java Data Structures
+
 ## Planet Currency - Java OOP practice
 - Currency = abstract parent class
 - Exchangeable = interface
