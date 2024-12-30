@@ -2,6 +2,8 @@
 A collection of small programs, highlighting my coding proficiency.
 
 ## Huffman Encoder - Java Data Structures
+From Wikipedia: "a Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression. The output can be viewed as a variable-length code table for encoding a source symbol (such as a character in a file). The algorithm derives this table from the estimated probability or frequency of occurrence (weight) for each possible value of the source symbol"
+Using a Binary Heap, this codes and decodes txt files into Huffman codes
 
 ## Planet Currency - Java OOP practice
 - Currency = abstract parent class
