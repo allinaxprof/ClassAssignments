@@ -2,9 +2,15 @@
 A collection of small programs, highlighting my coding proficiency.
 
 ## Instagram Followers/Following Disparity - Python
-Returns a list of the usernames you are following that are not following you back (Followers/Following Disparity).
+Returns a list of the usernames you are following that are not following you back (Followers/Following Disparity).  
 
-To use, download your follower and following data from Instagram as HTML files ([click here](https://help.instagram.com/181231772500920) for help).  Make sure this program is in the same folder as your HTML files, then run InstaFFDisparity.  Enter the names of the HTML files when prompted.  Output will be a list of usernames printed to the terminal.
+1. Download your follower and following data from Instagram as HTML files ([click here](https://help.instagram.com/181231772500920) for help).
+2. Download InstaFFDisparity
+3. Make sure the InstaFFDisparity file is in the same folder as your HTML files
+4. Run InstaFFDisparity
+5. Enter the names of the HTML files when prompted (might be helpful to put the names of the files somewhere to copy and paste)  
+
+Output will be a list of usernames printed to the terminal.
 
 ## Huffman Encoder - Java Data Structures
 From Wikipedia: "a Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression. The output can be viewed as a variable-length code table for encoding a source symbol (such as a character in a file). The algorithm derives this table from the estimated probability or frequency of occurrence (weight) for each possible value of the source symbol."
