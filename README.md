@@ -4,7 +4,7 @@ A collection of small programs, highlighting my coding proficiency.
 ## Instagram Followers/Following Disparity - Python
 Returns a list of the usernames you are following that are not following you back (Followers/Following Disparity).  
 
-1. Download your follower and following data from Instagram as HTML files; I would suggest downloading data from "all time" when prompted ([click here](https://help.instagram.com/181231772500920) for help)
+1. Download your follower and following data from Instagram as HTML files; I would suggest downloading data from "all time" when prompted ([click here](https://help.instagram.com/181231772500920) for help.  Heading: "Download a copy of your information in Accounts Center")
 2. Download InstaFFDisparity
 3. Make sure the InstaFFDisparity file is in the same folder as your HTML files
 4. Run InstaFFDisparity
